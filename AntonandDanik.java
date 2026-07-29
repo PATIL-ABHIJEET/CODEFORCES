@@ -18,6 +18,8 @@ public class AntonandDanik {
             System.out.println("Anton"); // if anton wins more games 
         }else if(danikins > antonWins){
             System.out.println("Danik"); // if danik wins more games
+        }else{
+            System.out.println("Friendship"); // if Anton == Danik 
         }
     }
 }
