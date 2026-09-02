@@ -18,9 +18,9 @@ public class PanoramixPrediction {
 
         if(isPrime){
             if(i == m) {
-                System.out.println("yes");
+                System.out.println("YES");
             } else {
-                System.out.println("no");
+                System.out.println("NO");
                 break;
             }
         }
