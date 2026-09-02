@@ -21,9 +21,10 @@ public class PanoramixPrediction {
                 System.out.println("YES");
             } else {
                 System.out.println("NO");
-                break;
             }
+            return;
         }
         }
+        System.out.println("NO");
     }
 }
